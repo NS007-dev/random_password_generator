@@ -48,5 +48,3 @@ gen_password = ""
 for i in password:
     gen_password = gen_password + str(i)
 print(gen_password)
-
-# 
